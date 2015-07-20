@@ -4,6 +4,10 @@
 #          勿作商业用途                                                                #
 #    对使用本程序造成的任何损失，本人概不负责                      #
 # ********************************** #
+
+#author: downtownguy.hui@gmail.com
+#date: 2015-07-20
+
 from crawl import Crawl
 
 def run():
@@ -12,8 +16,7 @@ def run():
     print_vips(vips)
 
 def print_vips(vips):
-    for vip in vips:
-        print "用户名：%s\t密码：%s" % (vip[0], vip[1])
+    print vips
         
 if __name__=="__main__":
     run()

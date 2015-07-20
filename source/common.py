@@ -5,6 +5,8 @@
 #    对使用本程序造成的任何损失，本人概不负责                      #
 # ********************************** #
 
+#author: downtownguy.hui@gmail.com
+#date: 2015-07-20
 class Singleton(object):
     '''
     A Singleton base class
