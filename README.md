@@ -33,8 +33,3 @@
 
 @author downtownguy.hui@gmail.com
 -----------------
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
